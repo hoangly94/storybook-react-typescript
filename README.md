@@ -11,4 +11,4 @@ Storybook react typescript stater project By HoangLy
 
 
 ## Contributors
-[Hoangly94](https://github.com/lthtv8)
+[Hoangly94](https://github.com/hoangly94)
