@@ -11,7 +11,7 @@
     "storybook:build": "build-storybook"
   },
   "repository": "https://github.com/lthtv8/storybook-react-typescript",
-  "author": "HoangLy <lthtv8@gmail.com>",
+  "author": "Hoangly94 <lthtv8@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "react": "17.0.2",
